@@ -82,7 +82,7 @@ end
       },
       :dennis_ritchie => {
         :known_for => "Unix",
-        :languages => ["c"]
+        :languages => ["C"]
       }
     }
 
