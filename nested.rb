@@ -73,7 +73,7 @@ programmer_hash[:yukihiro_matsumoto][:languages]= ["LISP", "C"]
 
 # return the entire updated hash
 programmer_hash
-end 
+
 	programmer_hash = 
  		{
       :grace_hopper => {
@@ -89,7 +89,7 @@ end
         :languages => ["C"]
       }
     }
-
+end
 
 
 def changing_alan
