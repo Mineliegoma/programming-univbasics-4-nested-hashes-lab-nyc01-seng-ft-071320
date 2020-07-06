@@ -72,7 +72,7 @@ programmer_hash[:yukihiro_matsumoto]={:known_for => "Ruby", :languages => ["LISP
 #programmer_hash[:yukihiro_matsumoto][:languages]= ["LISP", "C"]
 
 # return the entire updated hash
-programmer_hash
+#programmer_hash
 
 	programmer_hash = 
  		{
